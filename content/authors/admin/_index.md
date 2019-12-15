@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Department of Economics
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -72,6 +72,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
+Department of Economics, Bocconi University
 
 I am Jacopo Tozzo, PhD student at Bocconi University. My research interests are preminently focused on macroeconomics. 
 
