@@ -19,13 +19,11 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Trainee"
-  company = "ECB - Money market and Liquidity Division (DG Market Operations)"
+  company = "ECB - Money Market and Liquidity Division"
   company_url = ""
-  location = "California"
-  date_start = "01-10-2017"
-  date_end = "01-08-2018"
+  location = "Frankfurt am Main"
+  date_start = "Oct 2017"
+  date_end = "Jul 2018"
   description = """
-  
-"""
 
 +++
