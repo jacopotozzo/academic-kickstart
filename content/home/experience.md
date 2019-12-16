@@ -22,6 +22,6 @@ date_format = "Jan 2006"
   company = "ECB - Money Market and Liquidity Division"
   company_url = ""
   location = "Frankfurt am Main"
-  date_start = "Oct 2017"
-  date_end = "Jul 2018"
+  date_start = "2017-10-01"
+  date_end = "2018-08-01"
 +++
