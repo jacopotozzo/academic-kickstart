@@ -24,6 +24,4 @@ date_format = "Jan 2006"
   location = "Frankfurt am Main"
   date_start = "Oct 2017"
   date_end = "Jul 2018"
-  description = """
-
 +++
