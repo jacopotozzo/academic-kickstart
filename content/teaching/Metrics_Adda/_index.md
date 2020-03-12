@@ -22,10 +22,10 @@ menu:
 ---
 
 ## Overview
-Prof. : J.F. Adda 
+Prof. : J.F. Adda \\
 T.A. : J. Tozzo
 
-The course aims at introducing students to empirical research methods and data analysis. The course brings two sets of skills, practical skills to analyze data but also an introduction to how research is being done and evaluated. The first part of the course reviews common econometric methods and introduce students to a widely used statistical software (Stata) through examples and case studies. The second part of the course lets the students elaborate their own research idea and guide them through its implementation and final presentation in class.
+The course aims at introducing students to empirical research methods and data analysis. The course brings two sets of skills, practical skills to analyze data but also an introduction to how research is being done and evaluated. T
 
 ## Additional Material
 
