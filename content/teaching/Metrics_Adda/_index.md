@@ -3,7 +3,7 @@
 linktitle: Empirical Research Methods and Data Analysis - Fall 2019
 summary: Empirical reduced form econometrics course - Prof. J.F. Adda
 
-weight: 1
+weight: 4
 
 # Page metadata.
 title: Empirical Research Methods and Data Analysis
@@ -19,7 +19,7 @@ type: docs  # Do not modify.
 menu:
   example:
     name: Empirical Research Methods and Data Analysis
-    weight: 4
+    weight: 1
     
 ---
 
