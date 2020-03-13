@@ -19,7 +19,7 @@ type: docs  # Do not modify.
 menu:
   example:
     name: Empirical Research Methods and Data Analysis
-    weight: 1
+    weight: 4
     
 ---
 
