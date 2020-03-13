@@ -2,7 +2,16 @@
 # Course title, summary, and position.
 linktitle: Empirical Research Methods and Data Analysis - Fall 2019
 summary: The course aims at introducing students to empirical research methods and data analysis. The course brings two sets of skills, practical skills to analyze data but also an introduction to how research is being done and evaluated. 
- 
+
+tags:
+- Source Themes
+featured: true
+
+links:
+- name: Custom Link
+  url: http://example.org
+url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf 
+
 weight: 1
 
 # Page metadata.
@@ -20,13 +29,8 @@ menu:
   example:
     name: Empirical Research Methods and Data Analysis
     weight: 1
-      
+    
 ---
 
 # Overview
----
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf  
----
+
