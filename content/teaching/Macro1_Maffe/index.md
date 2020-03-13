@@ -18,7 +18,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: Empirical Research Methods and Data Analysis
+    name: Foundations of Econ
     weight: 1
     
 ---
