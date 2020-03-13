@@ -31,6 +31,10 @@ The course aims at introducing students to empirical research methods and data a
 
 Add PDFs here
 
+tags:
+- Source Themes
+featured: true
+
 links:
 - name: Custom Link
   url: http://example.org
