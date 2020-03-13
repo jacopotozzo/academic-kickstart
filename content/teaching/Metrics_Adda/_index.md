@@ -20,11 +20,13 @@ menu:
   example:
     name: Empirical Research Methods and Data Analysis
     weight: 1
-    
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf    
+      
 ---
 
 # Overview
+---
+links:
+- name: Custom Link
+  url: http://example.org
+url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf  
+---
