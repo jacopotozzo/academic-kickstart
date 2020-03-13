@@ -18,8 +18,8 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: Macroeconomic Trends
-    weight: 1
+    name: Macro Trends
+    weight: 3
     
 ---
 
