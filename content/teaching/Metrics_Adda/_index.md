@@ -1,11 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Empirical Research Methods and Data Analysis - Fall 2019
-summary: 
-  Prof: J.F. Adda \
-  TA: J. Tozzo
-
-  The course aims at introducing students to empirical research methods and data analysis. The course brings two sets of       skills, practical skills to analyze data but also an introduction to how research is being done and evaluated. 
+summary: The course aims at introducing students to empirical research methods and data analysis. The course brings two sets of skills, practical skills to analyze data but also an introduction to how research is being done and evaluated. 
  
 weight: 1
 
