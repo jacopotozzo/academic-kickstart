@@ -74,6 +74,6 @@ user_groups:
 ---
 Department of Economics, Bocconi University
 
-I am Jacopo Tozzo, PhD student at Bocconi University. My research interests are preminently focused on macroeconomics. 
+I'm Jacopo, PhD student at Bocconi University. My research interests are preminently focused on macroeconomics. 
 
-I am studying how deviations from rational expectations during the individual decision processes affect macroeconomic aggregates. Moreover, I am interested in understanding how non-rational expectations impact on the effectiveness of policy making.
+I study deviations from rational expectations and their effects on macroeconomic aggregates and policies. I'm also interested in debt dynamics influence on business cycles. 
