@@ -68,6 +68,6 @@ subtitle = ""
 
 Will follow soon!
 
-#{{% alert note %}}
-#Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-#{{% /alert %}}
+%{{% alert note %}}
+%Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+%{{% /alert %}}
