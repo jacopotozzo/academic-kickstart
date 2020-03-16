@@ -18,11 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include monetary economics, applied macro, behavioural economics. 
+bio: I'm an Economics PhD student at Bocconi University. My research interests include macroeconomics and behavioural macro. 
 
 interests:
-- Applied Macro
-- Behavioural
+- Macroeconomics
+- Behavioural Macro
 - Monetary 
 
 education:
@@ -36,7 +36,7 @@ education:
   - course: MSc in Economics
     institution: Università di Torino
     year: 2018
-  - course: BSc in Economics and FInance
+  - course: BSc in Economics and Finance
     institution: Università degli Studi di Bologna
     year: 2015
 
@@ -76,4 +76,4 @@ Department of Economics, Bocconi University
 
 I'm Jacopo, PhD student at Bocconi University. My research interests are preminently focused on macroeconomics. 
 
-I study deviations from rational expectations and their effects on macroeconomic aggregates and policies. I'm also interested in debt dynamics influence on business cycles. 
+I study deviations from rational expectations and their effects on macroeconomic aggregates and policies. I'm also interested in how debt dynamics influence business cycles. 
