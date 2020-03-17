@@ -23,8 +23,9 @@ menu:
     
 ---
 
-Overview
-1st year undergraduate macroeconomics course. You find all the relevant material of the course in the links below: 
+## Overview
+1st year undergraduate macroeconomics course. The course is mainly based on Blanchard book and provide the first macroeconomic principles.  \
+You find all the relevant material of the course in the links below: 
 
-- [Exercise List]({{< ref "teaching/Macro1_Maffe/exlist.md" >}})
+- [Exercise List]({{< ref "teaching/Macro1_Maffe/exlist.md" >}}) 
 
