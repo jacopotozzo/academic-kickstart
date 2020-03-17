@@ -15,7 +15,7 @@ role: PhD Student
 # Organizations/Affiliations
 organizations:
 - name: Bocconi University
-  url: ""
+  url: "jacopo.tozzo@unibocconi.it"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm an Economics PhD student at Bocconi University. My research interests include macroeconomics and behavioural macro. 
