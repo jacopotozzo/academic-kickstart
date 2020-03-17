@@ -23,9 +23,6 @@ menu:
     
 ---
 
-Overview 
-
-
 1st year undergraduate macroeconomics course. The course is mainly based on Blanchard book and provide the first macroeconomic principles.  \
 You find all the relevant material of the course in the links below: 
 
