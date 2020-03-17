@@ -26,5 +26,5 @@ menu:
 Overview
 1st year undergraduate macroeconomics course. You find all the relevant material of the course in the links below: 
 
-- [Exercise List]{{< ref "teaching/Macro1_Maffe/exlist.md" >}}
+- [Exercise List]({{< ref "teaching/Macro1_Maffe/exlist.md" >}})
 
