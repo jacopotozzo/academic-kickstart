@@ -10,8 +10,8 @@
 
 [[main]]
   name = "Research"
-  url = "#publication"
-  weight = 30
+  url = "#publications"
+  weight = 20
   
 [[main]]
   name = "Experience"
