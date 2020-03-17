@@ -1,6 +1,6 @@
 ---
-title: Exercises List
-linktitle: Exe List
+title: Exercises List Intro. to Econ.
+linktitle: Ex List Intro
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
