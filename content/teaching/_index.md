@@ -8,3 +8,4 @@ header:
   image: ""
 ---
 
+Given exceptional circumstances due to coronavirus, \textbf{office hours} will be held on skype. Send me an email to book a slot, please.
