@@ -13,18 +13,18 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
-All of the exercises listed below refer to Ferraguto (5th edition), unless differently specified. 
+All of the exercises listed below refer to Ferraguto (5th edition), unless differently specified. From version 4 to 6 exercises should be updated to the new version of IS-LM and IS-LM-PC models. If you have older versions of the book, keep in mind the differences for chapters 2 and 3.
 
 Class 1 exercises : ch. 1, n. 3, 4, 5, 6. 
 
 
 Exercise List for exam preparation (mid-term):
 
-Chapter 1 - Goods and Financial Markets \
+- Chapter 1 - Goods and Financial Markets \
 ex. 10, 11, 16; 
 
-Chapter 2 - IS-LM \
+- Chapter 2 - IS-LM \
 ex. 2, 3, 5, 10, 11, 12;
 
-Chapter 3 - Labour Market, IS-LM-PC and inflation \
+- Chapter 3 - Labour Market, IS-LM-PC and inflation \
 ex. 1, 2, 3, 4, 6, 8, 9, 10, 14;
