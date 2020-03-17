@@ -1,16 +1,17 @@
 ---
-# Course title, summary, and position.
+title: Exercises List
 linktitle: Ex List
-weight: 1
-
-# Add menu entry to sidebar.
-# - name: Declare this menu item as a parent with ID `name`.
-# - weight: Position of link in menu.
+toc: true
+type: docs
+date: "2019-05-05T00:00:00+01:00"
+draft: false
 menu:
   example:
-    name: Foundations of Econ
-    weight: 1
-    
+    parent: Foundations of Econ
+    weight: 2
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 1
 ---
 All of the exercises listed below refer to Ferraguto (5th edition), unless differently specified. 
 
