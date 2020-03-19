@@ -30,5 +30,5 @@ menu:
 You find all the relevant material of the course in the links below:
 
 - [Exercise List]({{< ref "teaching/Macro_Bruni/exlist.md" >}})
-- {{% staticref "files/exlist.pdf" "newtab" %}}Exercise List (text){{% /staticref %}}
-- [Exercise List (text)]({{< ref "static/files/exlist.pdf" >}})
+- {{% staticref "files/ExList.pdf" "newtab" %}}Exercise List (text){{% /staticref %}}
+- [Exercise List (text)]({{< ref "static/files/ExList.pdf" >}})
