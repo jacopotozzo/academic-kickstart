@@ -34,7 +34,7 @@ Links below contain solution pdf files to the exercise classes and exercises for
 
 ## Notes
 Links below contain personal notes on specific topics covered during the course.
-- {{% staticref "files/GDPDeflator.pdf" "newtab" %}}GDP Deflator {{% /GDP Deflator %}}
+- {{% staticref "files/GDPDeflator.pdf" "newtab" %}}GDP Deflator {{% /GDP_Deflator %}}
 - {{% staticref "files/FisherEquation.pdf" "newtab" %}}Returns and the Fisher Equation {{% /staticref %}}
 - {{% staticref "files/NoArbitrage.pdf" "newtab" %}}No Arbitrage Equation {{% /staticref %}}
 
