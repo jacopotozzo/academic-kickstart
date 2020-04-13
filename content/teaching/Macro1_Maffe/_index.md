@@ -29,6 +29,7 @@ menu:
 ## Classes - Exercises & Solutions 
 Links below contain solution pdf files to the exercise classes and exercises for the exam.
 - [Exercise List]({{< ref "teaching/Macro1_Maffe/exlist.md" >}}) 
+- {{% staticref "files/200413_Maffe_Ex1Sol.pdf" "newtab" %}}Exercise Class 1 - Solutions {{% /staticref %}}
 - {{% staticref "files/200413_Maffe_Ex2Sol.pdf" "newtab" %}}Exercise Class 2 - Solutions {{% /staticref %}}
 - {{% staticref "files/200413_Maffe_Ex3Sol.pdf" "newtab" %}}Exercise Class 3 - Solutions {{% /staticref %}}
 
