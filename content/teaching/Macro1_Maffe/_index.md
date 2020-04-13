@@ -26,8 +26,17 @@ menu:
 ## Overview
 1st year undergraduate macroeconomics course. The course is mainly based on Blanchard book and provide the first macroeconomic principles.  
 
-## Material
-You find all the relevant material of the course in the links below: 
-
+## Classes - Exercises & Solutions 
+Links below contain solution pdf files to the exercise classes and exercises for the exam.
 - [Exercise List]({{< ref "teaching/Macro1_Maffe/exlist.md" >}}) 
+- {{% staticref "files/200413_Maffe_Ex2Sol.pdf" "newtab" %}}Exercise Class 2 - Solutions (text){{% /staticref %}}
+- {{% staticref "files/200413_Maffe_Ex3Sol.pdf" "newtab" %}}Exercise Class 3 - Solutions (text){{% /staticref %}}
+
+## Notes
+Links below contain personal notes on specific topics covered during the course.
+- {{% staticref "files/GDPDeflator.pdf" "newtab" %}}GDP Deflator (text){{% /staticref %}}
+- {{% staticref "files/FisherEquation.pdf" "newtab" %}}Returns and the Fisher Equation (text){{% /staticref %}}
+- {{% staticref "files/NoArbitrage.pdf" "newtab" %}}No Arbitrage Equation (text){{% /staticref %}}
+
+
 
