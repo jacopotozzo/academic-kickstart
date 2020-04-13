@@ -29,14 +29,14 @@ menu:
 ## Classes - Exercises & Solutions 
 Links below contain solution pdf files to the exercise classes and exercises for the exam.
 - [Exercise List]({{< ref "teaching/Macro1_Maffe/exlist.md" >}}) 
-- {{% staticref "files/200413_Maffe_Ex2Sol.pdf" "newtab" %}}Exercise Class 2 - Solutions (text){{% /staticref %}}
-- {{% staticref "files/200413_Maffe_Ex3Sol.pdf" "newtab" %}}Exercise Class 3 - Solutions (text){{% /staticref %}}
+- {{% staticref "files/200413_Maffe_Ex2Sol.pdf" "newtab" %}}Exercise Class 2 - Solutions {{% /staticref %}}
+- {{% staticref "files/200413_Maffe_Ex3Sol.pdf" "newtab" %}}Exercise Class 3 - Solutions {{% /staticref %}}
 
 ## Notes
 Links below contain personal notes on specific topics covered during the course.
-- {{% staticref "files/GDPDeflator.pdf" "newtab" %}}GDP Deflator (text){{% /staticref %}}
-- {{% staticref "files/FisherEquation.pdf" "newtab" %}}Returns and the Fisher Equation (text){{% /staticref %}}
-- {{% staticref "files/NoArbitrage.pdf" "newtab" %}}No Arbitrage Equation (text){{% /staticref %}}
+- {{% staticref "files/GDPDeflator.pdf" "newtab" %}}GDP Deflator {{% /staticref %}}
+- {{% staticref "files/FisherEquation.pdf" "newtab" %}}Returns and the Fisher Equation {{% /staticref %}}
+- {{% staticref "files/NoArbitrage.pdf" "newtab" %}}No Arbitrage Equation {{% /staticref %}}
 
 
 
