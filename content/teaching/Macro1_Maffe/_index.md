@@ -32,7 +32,7 @@ Links below contain solution pdf files to the exercise classes and exercises for
 - {{% staticref "files/200413_Maffe_Ex1Sol.pdf" "newtab" %}}Exercise Class 1 - Solutions {{% /staticref %}}
 - {{% staticref "files/200413_Maffe_Ex2Sol.pdf" "newtab" %}}Exercise Class 2 - Solutions {{% /staticref %}}
 - {{% staticref "files/200413_Maffe_Ex3Sol.pdf" "newtab" %}}Exercise Class 3 - Solutions {{% /staticref %}}
-- {{% staticref "files/200427_Maffe_Ex3Sol.pdf" "newtab" %}}Exercise Class 4 - Solutions {{% /staticref %}}
+- {{% staticref "files/200427_Maffe_Ex4Sol.pdf" "newtab" %}}Exercise Class 4 - Solutions {{% /staticref %}}
 
 ## Notes
 Links below contain personal notes on specific topics covered during the course.
