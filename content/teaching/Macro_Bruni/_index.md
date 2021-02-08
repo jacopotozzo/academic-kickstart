@@ -27,8 +27,8 @@ menu:
 1st year undergraduate macroeconomics course. The course is mainly based on Blanchard book and provide the first macroeconomic principles. 
 
 ## Material
-You find all the relevant material of the course in the links below:
+#You find all the relevant material of the course in the links below:
 
-- {{% staticref "files/200304_Bruni_ProfSol.pdf" "newtab" %}}Exercise Class Solutions (from video lecture 06/03) (text){{% /staticref %}}
-- [Exercise List]({{< ref "teaching/Macro_Bruni/exlist.md" >}})
-- {{% staticref "files/200319_Bruni_ExList.pdf" "newtab" %}}Exercise List (text){{% /staticref %}}
+#- {{% staticref "files/200304_Bruni_ProfSol.pdf" "newtab" %}}Exercise Class Solutions (from video lecture 06/03) (text){{% /staticref %}}
+#- [Exercise List]({{< ref "teaching/Macro_Bruni/exlist.md" >}})
+#- {{% staticref "files/200319_Bruni_ExList.pdf" "newtab" %}}Exercise List (text){{% /staticref %}}
